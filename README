@@ -1,0 +1,15 @@
+This is a chrome extension for nice scroll bar
+This folder contains the following file
+*
+|
+|----- README
+|
+|----- manifest.json
+|
+|----- jquery.min.js
+|
+|----- jquery.nicescroll.min.js
+|
+|----- jquery.nicescroll.plus.js
+|
+|----- custom.js
