@@ -1,0 +1,15 @@
+{
+   "content_scripts": [ {
+      "js":["jquery.min.js","jquery.nicescroll.min.js","jquery.nicescroll.plus.js","custom.js"],
+      "matches": [ "*://*/*"]
+   } ],
+   "description": "A nice scroll bar for web browsers",
+   "author":"https://plus.google.com/+DheerendraRathor",
+   "homepage_url":"http://www.cse.iitb.ac.in/~dheerendra",
+   "icons": {
+      "128": "128.png"
+   },
+   "name": "Stud Scrollar",
+   "manifest_version":2,
+   "version": "1.0.0"
+}
